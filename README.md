@@ -1,7 +1,3 @@
-# sentimen-rkuhap-indobertweet
-Eksperimen analisis sentimen pengguna aplikasi X terhadap pengesahan RKUHAP menggunakan IndoBERTweet dengan skenario baseline, class weight, Random Oversampling, dan focal loss.
-
-
 # Analisis Sentimen RKUHAP Menggunakan IndoBERTweet
 
 Repository ini berisi notebook eksperimen analisis sentimen pengguna aplikasi X terhadap pengesahan RKUHAP menggunakan model IndoBERTweet.
