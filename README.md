@@ -20,9 +20,14 @@ Penelitian ini membandingkan empat skenario eksperimen, yaitu baseline, class we
 
 ## Struktur File
 
+## Struktur File
+
 ```text
-notebook/
+Notebook/
 ├── 01_Baseline.ipynb
 ├── 02_ClassWeight.ipynb
 ├── 03_ROS.ipynb
 └── 04_FocalLoss.ipynb
+
+Dataset/
+└── dataset_rkuhap_labeled.csv
